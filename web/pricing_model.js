@@ -1,4 +1,4 @@
-// Pricing functions used by vivekmitra.com/pricing.html: GLM and gradient-boosting claim frequency.
+// Pricing functions for a web page: GLM and gradient-boosting claim frequency.
 // The block below is copied verbatim into site/js/pricing.js; tests/parity.mjs fails if the two differ.
 // Author: Vivek Mitra
 

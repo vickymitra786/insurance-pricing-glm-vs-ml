@@ -4,8 +4,7 @@ An honest benchmark on French motor insurance. The standard actuarial model for 
 Poisson GLM, against gradient boosting with a Poisson objective. Both are fitted on 80% of 678,013 real
 policies and scored on held-out policies, with bootstrap intervals and five repeat splits.
 
-Live demo: [vivekmitra.com/pricing.html](https://vivekmitra.com/pricing.html) ·
-Paper: [results/pricing.pdf](results/pricing.pdf) (also at [vivekmitra.com/papers/pricing.pdf](https://vivekmitra.com/papers/pricing.pdf))
+Paper: [results/pricing.pdf](results/pricing.pdf) · Author: Vivek Mitra ([ORCID 0009-0003-9437-5347](https://orcid.org/0009-0003-9437-5347)) · [vivekmitra.com](https://vivekmitra.com)
 
 ## Result
 
