@@ -1,0 +1,10 @@
+.venv/
+data/
+__pycache__/
+*.pyc
+CLAUDE.md
+.claude/
+paper/node_modules/
+paper/~$*.docx
+out/
+PUBLISH.txt

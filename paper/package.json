@@ -1,0 +1,12 @@
+{
+  "name": "pricing-paper",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Builds the pricing benchmark paper (Word and PDF) from out/results.json. Author: Vivek Mitra",
+  "type": "module",
+  "author": "Vivek Mitra",
+  "license": "AGPL-3.0-only",
+  "dependencies": {
+    "docx": "9.5.1"
+  }
+}
